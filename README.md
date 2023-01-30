@@ -9,3 +9,6 @@ A company would like to set up pop-up shop or food truck on the Burke Gilman Tra
 * The target is binary but highly unbalanced
 * The dataset has the pedestrians and bikers crowd size in the South path, and North path, as well as date and time.
 * The main challenge was deciding where to split the dataset for training and testing
+
+<b>*Note*</b>
+*The best models are also provided in this repo
